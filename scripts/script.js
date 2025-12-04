@@ -23,6 +23,6 @@ function login() {
     }
     function messageInvalido(){
           swal({
-            title: "Código do certificado é inválido",
-            text: "Documento não encontrado\n\n\n\n\n\n"});
+            title: "Código Inválido",
+            text: "Certificado não encontrado\n\n\n\n\n\n"});
       }
